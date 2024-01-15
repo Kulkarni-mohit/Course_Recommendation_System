@@ -35,3 +35,5 @@ The dataset used in this project is generated using ChatGPT, a language model de
 * streamlit run app.py
 
 ## Demo
+[streamlit-app-2024-01-15-19-01-12.webm](https://github.com/Kulkarni-mohit/Course_Recommendation_System/assets/77321386/8a7c0833-3422-4c58-8b7e-152f68ecaa71)
+
